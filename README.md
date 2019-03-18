@@ -44,3 +44,26 @@ iOS项目集成Flutter
 
 • No issues found!
   ```
+  
+  3. iOS项目设置EnableBitCode 为NO
+  
+       ![pic001](FlutterM/Image/001.png)
+  4. Flutter Module创建
+  
+    拉取新代码
+    
+      ``` bogon:flutterV zxs$ git pull ```
+    
+    创建
+    进入项目路径，并执行
+    
+      ``` flutter create -t module flutter_module ```
+    会在目录中生成flutter_module文件
+        ![pic002](FlutterM/Image/002.png)
+   
+  5. 创建iOS项目的Config文件里面分别创建 Flutter.xcconfig Debug.xcconfig  Release.xcconfig 。其中 Flutter.xcconfig是指向外目录flutter_module的Generated.xcconfig 文件路径引用文件，其他两个代表xcode的配置文件
+  
+        ![pic003](FlutterM/Image/003.png)
+    
+   
+    
