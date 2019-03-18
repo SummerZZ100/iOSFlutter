@@ -4,7 +4,10 @@ iOS项目集成Flutter
 1. Flutter环境安装，请参考官方文档 https://flutter.dev/docs/development/tools/sdk/archive#macos
 2. 确保环境正确 
   终端输入
-  ``` flutter doctor -v ```
+  
+   ``` 
+   flutter doctor -v  
+   ```
   输出项均正确
   
   ```
@@ -49,15 +52,18 @@ iOS项目集成Flutter
   
        ![pic001](FlutterM/Image/001.png)
   4. Flutter Module创建
-  
     拉取新代码
     
-      ``` bogon:flutterV zxs$ git pull ```
+   ```
+   bogon:flutterV zxs$ git pull         
+  ```
     
     创建
     进入项目路径，并执行
     
-      ``` flutter create -t module flutter_module ```
+   ``` 
+   flutter create -t module flutter_module 
+   ```
     会在目录中生成flutter_module文件
     
    ![pic002](FlutterM/Image/002.png)
@@ -87,16 +93,13 @@ iOS项目集成Flutter
        
         ```
         #include "Flutter.xcconfig"
-
        ```
        
        Release.xcconfig
        
        ```
-       
        #include "Flutter.xcconfig"
        FLUTTER_BUILD_MODE=release
-
        ```
        
   6.  Xcode project环境配置
@@ -110,10 +113,8 @@ iOS项目集成Flutter
      ![pic006](FlutterM/Image/006.png)
         
      ``` 
-     
      "$FLUTTER_ROOT/packages/flutter_tools/bin/xcode_backend.sh" build
      "$FLUTTER_ROOT/packages/flutter_tools/bin/xcode_backend.sh" embed
-      
      ```
      
      注意： Run Script 在Target Dependencies或者[CP]Check pods Manifest.lock后面
@@ -428,7 +429,6 @@ iOS项目集成Flutter
     }
     @end
     
-    
-    ```
+   ```
    
     
