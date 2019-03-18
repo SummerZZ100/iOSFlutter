@@ -59,6 +59,7 @@ iOS项目集成Flutter
     
       ``` flutter create -t module flutter_module ```
     会在目录中生成flutter_module文件
+    
         ![pic002](FlutterM/Image/002.png)
    
   5. 创建iOS项目的Config文件里面分别创建 Flutter.xcconfig Debug.xcconfig  Release.xcconfig 。其中 Flutter.xcconfig是指向外目录flutter_module的Generated.xcconfig 文件路径引用文件，其他两个代表xcode的配置文件
