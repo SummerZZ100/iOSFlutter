@@ -44,3 +44,7 @@ iOS项目集成Flutter
 
 • No issues found!
   ```
+  
+  3. iOS项目设置EnableBitCode 为NO
+  
+   ![pic001](FlutterM/Image/001.png)
