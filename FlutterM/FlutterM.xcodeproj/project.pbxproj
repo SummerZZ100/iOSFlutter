@@ -17,6 +17,8 @@
 		A1EFBAA3223F4D7900F41176 /* Flutter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1EFBAA0223F4D7900F41176 /* Flutter.framework */; };
 		A1EFBAA4223F4D7900F41176 /* Flutter.podspec in Resources */ = {isa = PBXBuildFile; fileRef = A1EFBAA1223F4D7900F41176 /* Flutter.podspec */; };
 		A1EFBAAA223FA16700F41176 /* 001.png in Resources */ = {isa = PBXBuildFile; fileRef = A1EFBAA9223FA16700F41176 /* 001.png */; };
+		A1EFBAAC223FA73F00F41176 /* 002.png in Resources */ = {isa = PBXBuildFile; fileRef = A1EFBAAB223FA73F00F41176 /* 002.png */; };
+		A1EFBAAE223FA98300F41176 /* 003.png in Resources */ = {isa = PBXBuildFile; fileRef = A1EFBAAD223FA98300F41176 /* 003.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +41,8 @@
 		A1EFBAA1223F4D7900F41176 /* Flutter.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Flutter.podspec; sourceTree = "<group>"; };
 		A1EFBAA7223F762500F41176 /* FlutterM.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = FlutterM.entitlements; sourceTree = "<group>"; };
 		A1EFBAA9223FA16700F41176 /* 001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 001.png; sourceTree = "<group>"; };
+		A1EFBAAB223FA73F00F41176 /* 002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 002.png; sourceTree = "<group>"; };
+		A1EFBAAD223FA98300F41176 /* 003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 003.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +126,8 @@
 		A1EFBAA8223FA0DF00F41176 /* Image */ = {
 			isa = PBXGroup;
 			children = (
+				A1EFBAAD223FA98300F41176 /* 003.png */,
+				A1EFBAAB223FA73F00F41176 /* 002.png */,
 				A1EFBAA9223FA16700F41176 /* 001.png */,
 			);
 			path = Image;
@@ -196,6 +202,8 @@
 				A1EFBAA4223F4D7900F41176 /* Flutter.podspec in Resources */,
 				A18DFC2C222E853D005A252E /* LaunchScreen.storyboard in Resources */,
 				A18DFC29222E853D005A252E /* Assets.xcassets in Resources */,
+				A1EFBAAE223FA98300F41176 /* 003.png in Resources */,
+				A1EFBAAC223FA73F00F41176 /* 002.png in Resources */,
 				A1EFBAAA223FA16700F41176 /* 001.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
