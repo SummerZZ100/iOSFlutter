@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/FlutterM/main.m \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/FlutterM/AppDelegate.h \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/Fluter/engine/Flutter.framework/Modules/module.modulemap \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/Fluter/engine/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/Fluter/engine/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/Fluter/engine/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/Fluter/engine/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/Fluter/engine/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/Fluter/engine/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/Fluter/engine/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/Fluter/engine/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/Fluter/engine/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/Fluter/engine/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/Fluter/engine/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/Fluter/engine/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/Fluter/engine/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/Fluter/engine/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/zhangxiaosong/Desktop/ZXS/FlutterTT/FlutterM/Fluter/engine/Flutter.framework/Headers/Flutter.h
