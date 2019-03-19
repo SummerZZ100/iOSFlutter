@@ -443,4 +443,6 @@ iOS项目集成Flutter
     
    ```
    
+   若只需内部调用则，不必在AppDelegate中进行配置
+   
     
