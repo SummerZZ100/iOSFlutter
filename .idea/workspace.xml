@@ -2,8 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b9ab803-ed4b-4bdf-99d3-26023929f54f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlutterM/FlutterM.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/FlutterM/FlutterM.xcodeproj/project.pbxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FlutterM/FlutterM.xcodeproj/project.xcworkspace/xcuserdata/zhangxiaosong.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/FlutterM/FlutterM.xcodeproj/project.xcworkspace/xcuserdata/zhangxiaosong.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/FlutterM" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/FlutterM" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/App" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/App" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/flutter_assets/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/flutter_assets/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/flutter_assets/isolate_snapshot_data" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/flutter_assets/isolate_snapshot_data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/flutter_assets/vm_snapshot_data" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/flutter_assets/vm_snapshot_data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/Flutter.framework/Flutter" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/Flutter.framework/Flutter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/Flutter.framework/Headers/FlutterEngine.h" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/Flutter.framework/Headers/FlutterEngine.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/Flutter.framework/Headers/FlutterViewController.h" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/Flutter.framework/Headers/FlutterViewController.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/_CodeSignature/CodeResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/249b638f4f22851e9c73910b2a510d0a-desc.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/249b638f4f22851e9c73910b2a510d0a-manifest.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/9db588538c745e56ec927d5e063b38ba-desc.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/9db588538c745e56ec927d5e063b38ba-manifest.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/BuildDescriptionCacheIndex-ada733bf6e891d19261d34104463b37e" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/XCBuildData/BuildDescriptionCacheIndex-ada733bf6e891d19261d34104463b37e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/build.db" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/XCBuildData/build.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/d02ef33535e6f8c86dfe6e30c9bc0e0d-desc.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/d02ef33535e6f8c86dfe6e30c9bc0e0d-manifest.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/e31a61d19d6670fe4b11c3ea05e2aa3d-desc.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/e31a61d19d6670fe4b11c3ea05e2aa3d-manifest.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_module/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_module/pubspec.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +42,8 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -33,12 +58,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="729" />
+          <entry key="md" value="731" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="729" />
+          <entry key="Markdown" value="731" />
         </counts>
       </usages-collector>
     </session>
@@ -49,8 +74,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="624">
-                <caret line="431" column="3" selection-start-line="431" selection-start-column="3" selection-end-line="431" selection-end-column="3" />
+              <first_editor relative-caret-position="2282">
+                <caret line="317" lean-forward="true" selection-start-line="317" selection-end-line="317" />
               </first_editor>
               <second_editor />
             </state>
@@ -76,8 +101,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="808" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -87,7 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,7 +147,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,17 +187,18 @@
       <updated>1552920846269</updated>
       <workItem from="1552920847712" duration="2058000" />
       <workItem from="1552923063716" duration="250000" />
+      <workItem from="1552968052076" duration="52000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2308000" />
+    <option name="totallyTimeSpent" value="2360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14663805" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14878398" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -213,8 +240,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="624">
-            <caret line="431" column="3" selection-start-line="431" selection-start-column="3" selection-end-line="431" selection-end-column="3" />
+          <first_editor relative-caret-position="2282">
+            <caret line="317" lean-forward="true" selection-start-line="317" selection-end-line="317" />
           </first_editor>
           <second_editor />
         </state>
