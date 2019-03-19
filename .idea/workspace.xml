@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b9ab803-ed4b-4bdf-99d3-26023929f54f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlutterM/FlutterM.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/FlutterM/FlutterM.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlutterM/FlutterM.xcodeproj/project.xcworkspace/xcuserdata/zhangxiaosong.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/FlutterM/FlutterM.xcodeproj/project.xcworkspace/xcuserdata/zhangxiaosong.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/FlutterM" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/FlutterM" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/App" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/App" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/_CodeSignature/CodeResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/flutter_assets/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/flutter_assets/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/flutter_assets/isolate_snapshot_data" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/flutter_assets/isolate_snapshot_data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/flutter_assets/vm_snapshot_data" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/App.framework/flutter_assets/vm_snapshot_data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/Flutter.framework/Flutter" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/Flutter.framework/Flutter" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/Flutter.framework/Headers/FlutterEngine.h" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/Flutter.framework/Headers/FlutterEngine.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/Flutter.framework/Headers/FlutterViewController.h" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/Flutter.framework/Headers/FlutterViewController.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/FlutterM.app/_CodeSignature/CodeResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/249b638f4f22851e9c73910b2a510d0a-desc.xcbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/249b638f4f22851e9c73910b2a510d0a-manifest.xcbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/9db588538c745e56ec927d5e063b38ba-desc.xcbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/9db588538c745e56ec927d5e063b38ba-manifest.xcbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/BuildDescriptionCacheIndex-ada733bf6e891d19261d34104463b37e" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/XCBuildData/BuildDescriptionCacheIndex-ada733bf6e891d19261d34104463b37e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/build.db" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/XCBuildData/build.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/d02ef33535e6f8c86dfe6e30c9bc0e0d-desc.xcbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/d02ef33535e6f8c86dfe6e30c9bc0e0d-manifest.xcbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/e31a61d19d6670fe4b11c3ea05e2aa3d-desc.xcbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/XCBuildData/e31a61d19d6670fe4b11c3ea05e2aa3d-manifest.xcbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_module/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_module/pubspec.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2282">
+              <first_editor relative-caret-position="5389">
                 <caret line="317" lean-forward="true" selection-start-line="317" selection-end-line="317" />
               </first_editor>
               <second_editor />
@@ -187,12 +161,12 @@
       <updated>1552920846269</updated>
       <workItem from="1552920847712" duration="2058000" />
       <workItem from="1552923063716" duration="250000" />
-      <workItem from="1552968052076" duration="52000" />
+      <workItem from="1552968052076" duration="267000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2360000" />
+    <option name="totallyTimeSpent" value="2575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -240,7 +214,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2282">
+          <first_editor relative-caret-position="5389">
             <caret line="317" lean-forward="true" selection-start-line="317" selection-end-line="317" />
           </first_editor>
           <second_editor />

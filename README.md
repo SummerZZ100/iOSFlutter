@@ -104,7 +104,7 @@ iOS项目集成Flutter
        
   6.  Xcode project环境配置
   
-     ![pic004](FlutterM/Image/004.png)
+      ![pic004](FlutterM/Image/004.png)
      
   7. 添加脚本
   
