@@ -51,6 +51,7 @@ iOS项目集成Flutter
   3. iOS项目设置EnableBitCode 为NO
   
        ![pic001](FlutterM/Image/001.png)
+       
   4. Flutter Module创建
     拉取新代码
     
