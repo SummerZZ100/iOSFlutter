@@ -445,4 +445,5 @@ iOS项目集成Flutter
    
    若只需内部调用则，不必在AppDelegate中进行配置
    
+   # 最后可以使用 [flutter_boost ](https://github.com/alibaba/flutter_boost)来管理flutter与iOS交互的处理，防止多引擎多次创建问题
     
