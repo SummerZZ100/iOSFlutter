@@ -76,9 +76,9 @@ iOS项目集成Flutter
       使用了 cocoapods 在Debug和Release中添加
       
       ```  
-      #include "Pods/Target Support Files/Pods-FlutterMixed/Pods-FlutterMixed.debug.xcconfig"
+      #include "Pods/Target Support Files/Pods-FlutterM/Pods-FlutterM.debug.xcconfig"
       
-      #include "Pods/Target Support Files/Pods-FlutterMixed/Pods-FlutterMixed.release.xcconfig" 
+      #include "Pods/Target Support Files/Pods-FlutterM/Pods-FlutterM.release.xcconfig" 
            
        ```
            
