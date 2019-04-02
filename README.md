@@ -120,9 +120,7 @@ iOS项目集成Flutter
      
      注意： Run Script 在Target Dependencies或者[CP]Check pods Manifest.lock后面
        
-  8. 添加好之后Build或Run后，会在iOS工程文件夹中生成一个Flutter文件（我是没生成成功，只能手动添加
-     【在工程文件下手动创建一个Flutter文件夹，把flutter_moduler=>.ios=>
-     Flutter文件中的App.framework engine文件添加到里面】）
+  8. 添加好之后Build或Run后，会在iOS工程文件夹中生成一个Flutter文件,将该文件添加到项目跟目录
      
        ![pic007](FlutterM/Image/007.png)
        
